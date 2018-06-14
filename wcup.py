@@ -1,3 +1,11 @@
+#World Cup Automator
+#
+#https://github.com/heeed/worldcup
+#based on https://github.com/lsv/fifa-worldcup-2018
+#
+#This work is licensed under the terms of the MIT license.  
+#For a copy, see <https://opensource.org/licenses/MIT>.
+
 import json
 import urllib.request 
 import operator 
