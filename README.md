@@ -1,7 +1,7 @@
 # World Cup Automater
 ## 2018 Fifa World Cup Russia
 
-Quick bit of example python to show how to get the json, find the matches your want (just group A at the moment in this example) and print out the data.
+Quick bit of example python to show how to get the json, find the matches you want and print out the data.
 
 Of course...England will win so there is no point in the other teams turning up :D
 
