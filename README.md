@@ -5,6 +5,8 @@ Quick bit of example python to show how to get the json, find the matches your w
 
 Of course...England will win so there is no point in the other teams turning up :D
 
+Requires: python3-arrow 
+
 usage: python3 wcup.py
 
 The code should be self explanatory.
